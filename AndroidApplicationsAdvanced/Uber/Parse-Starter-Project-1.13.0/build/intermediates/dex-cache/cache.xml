@@ -1,0 +1,215 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Android-Applications-Advanced\Uber\Parse-Starter-Project-1.13.0\ParseStarterProject\build\intermediates\exploded-aar\com.google.android.gms\play-services-safetynet\7.5.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="1a6411087ab88ce5542f593e63a2752b6b0d6f1a">
+        <dex dex="C:\Android-Applications-Advanced\Uber\Parse-Starter-Project-1.13.0\ParseStarterProject\build\intermediates\pre-dexed\debug\classes-d3318f0bafd814f42b91b9dda40ce83ef045ef0d.jar" />
+    </item>
+    <item
+        jar="C:\Android-Applications-Advanced\Uber\Parse-Starter-Project-1.13.0\ParseStarterProject\build\intermediates\exploded-aar\com.google.android.gms\play-services-wallet\7.5.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="6836d188602ec5382d1967c58b00960eb8ff8773">
+        <dex dex="C:\Android-Applications-Advanced\Uber\Parse-Starter-Project-1.13.0\ParseStarterProject\build\intermediates\pre-dexed\debug\classes-daf25a7ca82a4ea66d74299240ab6273dabeba9b.jar" />
+    </item>
+    <item
+        jar="C:\Android-Applications-Advanced\Uber\Parse-Starter-Project-1.13.0\ParseStarterProject\build\intermediates\exploded-aar\com.google.android.gms\play-services-nearby\7.5.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="6440e5e5cfe368f9bff3c537fb8988048069cb33">
+        <dex dex="C:\Android-Applications-Advanced\Uber\Parse-Starter-Project-1.13.0\ParseStarterProject\build\intermediates\pre-dexed\debug\classes-83b59e80de67e776bca519dbcdc21f455e7ea387.jar" />
+    </item>
+    <item
+        jar="C:\Users\Marko Arsenovic\.gradle\caches\modules-2\files-2.1\com.parse\parse-android\1.13.0\58a7d54b6a4f28be11f0cecec93097eddf473e6f\parse-android-1.13.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="58a7d54b6a4f28be11f0cecec93097eddf473e6f">
+        <dex dex="C:\Android-Applications-Advanced\Uber\Parse-Starter-Project-1.13.0\ParseStarterProject\build\intermediates\pre-dexed\debug\parse-android-1.13.0-3f3eb97d0fe4795691fd80023cf7884c6b7965b9.jar" />
+    </item>
+    <item
+        jar="C:\Android-Applications-Advanced\Uber\Parse-Starter-Project-1.13.0\ParseStarterProject\build\intermediates\exploded-aar\com.android.support\support-v4\24.0.0-alpha1\jars\libs\internal_impl-24.0.0-alpha1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="e57fba0a2d57d3501d8f4ff44c23092978804845">
+        <dex dex="C:\Android-Applications-Advanced\Uber\Parse-Starter-Project-1.13.0\ParseStarterProject\build\intermediates\pre-dexed\debug\internal_impl-24.0.0-alpha1-d7889a3ec10e6a4b9fe0188d3a55c0cc226b8204.jar" />
+    </item>
+    <item
+        jar="C:\Android-Applications-Advanced\Uber\Parse-Starter-Project-1.13.0\ParseStarterProject\build\intermediates\exploded-aar\com.google.android.gms\play-services-appindexing\7.5.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="f02127a85abd52a2cd526d4c2409f21969f80ee8">
+        <dex dex="C:\Android-Applications-Advanced\Uber\Parse-Starter-Project-1.13.0\ParseStarterProject\build\intermediates\pre-dexed\debug\classes-975872e43258d46db848a8603024a9d918862067.jar" />
+    </item>
+    <item
+        jar="C:\Android-Applications-Advanced\Uber\Parse-Starter-Project-1.13.0\ParseStarterProject\build\intermediates\exploded-aar\com.google.android.gms\play-services-gcm\7.5.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="8d736fefa22d896e84a268354b3ed48a42663150">
+        <dex dex="C:\Android-Applications-Advanced\Uber\Parse-Starter-Project-1.13.0\ParseStarterProject\build\intermediates\pre-dexed\debug\classes-6a7f8b821403fb2f757233e233ad3afb1e2d8c7d.jar" />
+    </item>
+    <item
+        jar="C:\Android-Applications-Advanced\Uber\Parse-Starter-Project-1.13.0\ParseStarterProject\build\intermediates\exploded-aar\com.google.android.gms\play-services-fitness\7.5.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="a172852a35ff919e85b9b7f14bbc15c5bee25520">
+        <dex dex="C:\Android-Applications-Advanced\Uber\Parse-Starter-Project-1.13.0\ParseStarterProject\build\intermediates\pre-dexed\debug\classes-f6a340e6e1772bcce257c0303d5d1ea3c097eb74.jar" />
+    </item>
+    <item
+        jar="C:\Android-Applications-Advanced\Uber\Parse-Starter-Project-1.13.0\ParseStarterProject\build\intermediates\exploded-aar\com.android.support\appcompat-v7\24.0.0-alpha1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="9684c95278dc45a142d7de3db9e7e39aa520e1e0">
+        <dex dex="C:\Android-Applications-Advanced\Uber\Parse-Starter-Project-1.13.0\ParseStarterProject\build\intermediates\pre-dexed\debug\classes-444875f915c2626b35ab62e44d67ffd438cd8ad3.jar" />
+    </item>
+    <item
+        jar="C:\Android-Applications-Advanced\Uber\Parse-Starter-Project-1.13.0\ParseStarterProject\build\intermediates\exploded-aar\com.google.android.gms\play-services-appstate\7.5.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="68c140702c7242d914655bcb3164d9e8c45b84cb">
+        <dex dex="C:\Android-Applications-Advanced\Uber\Parse-Starter-Project-1.13.0\ParseStarterProject\build\intermediates\pre-dexed\debug\classes-e3bc24721888704117bcbcdd501df8852e4ebe34.jar" />
+    </item>
+    <item
+        jar="C:\Android-Applications-Advanced\Uber\Parse-Starter-Project-1.13.0\ParseStarterProject\build\intermediates\exploded-aar\com.google.android.gms\play-services-plus\7.5.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="272bc5d7063f24bc3a33ea1d318cde8f31f5ec4c">
+        <dex dex="C:\Android-Applications-Advanced\Uber\Parse-Starter-Project-1.13.0\ParseStarterProject\build\intermediates\pre-dexed\debug\classes-7a53f189d04b1f50d8f9ee863ad765a9b98e1c3d.jar" />
+    </item>
+    <item
+        jar="C:\Android-Applications-Advanced\Uber\Parse-Starter-Project-1.13.0\ParseStarterProject\build\intermediates\exploded-aar\com.google.android.gms\play-services-panorama\7.5.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="ba207be21987c11b37d9f8faa08ed6e722569f30">
+        <dex dex="C:\Android-Applications-Advanced\Uber\Parse-Starter-Project-1.13.0\ParseStarterProject\build\intermediates\pre-dexed\debug\classes-05875daeac2d3161c7f4b4f437ce68491c020446.jar" />
+    </item>
+    <item
+        jar="C:\Android-Applications-Advanced\Uber\Parse-Starter-Project-1.13.0\ParseStarterProject\build\intermediates\exploded-aar\com.google.android.gms\play-services-appinvite\7.5.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="63ec6e9f4fe5482a7447d0f3091b8e543a02554c">
+        <dex dex="C:\Android-Applications-Advanced\Uber\Parse-Starter-Project-1.13.0\ParseStarterProject\build\intermediates\pre-dexed\debug\classes-d58e1798fb4d5c8d5e1093ea19fb2cbdf6383b4e.jar" />
+    </item>
+    <item
+        jar="C:\Android-Applications-Advanced\Uber\Parse-Starter-Project-1.13.0\ParseStarterProject\build\intermediates\exploded-aar\com.google.android.gms\play-services-location\7.5.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="1e98ef3f124bb7a11f8575f9ff5dfea330b61b6f">
+        <dex dex="C:\Android-Applications-Advanced\Uber\Parse-Starter-Project-1.13.0\ParseStarterProject\build\intermediates\pre-dexed\debug\classes-75159090b36d92b20da203be4d797a12ec6799c5.jar" />
+    </item>
+    <item
+        jar="C:\Android-Applications-Advanced\Uber\Parse-Starter-Project-1.13.0\ParseStarterProject\build\intermediates\exploded-aar\com.google.android.gms\play-services-games\7.5.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="02bac2dc792d78241077861566f2c82da955e7fa">
+        <dex dex="C:\Android-Applications-Advanced\Uber\Parse-Starter-Project-1.13.0\ParseStarterProject\build\intermediates\pre-dexed\debug\classes-f56571098c608eb20f6178d4a870eeb8f752b58a.jar" />
+    </item>
+    <item
+        jar="C:\Android-Applications-Advanced\Uber\Parse-Starter-Project-1.13.0\ParseStarterProject\build\intermediates\exploded-aar\com.google.android.gms\play-services-maps\7.5.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="06a42becc33232ec0ee125161da68c1829c9f8fd">
+        <dex dex="C:\Android-Applications-Advanced\Uber\Parse-Starter-Project-1.13.0\ParseStarterProject\build\intermediates\pre-dexed\debug\classes-6de07bfd922f1564eb3c671c1caea3c7ea391855.jar" />
+    </item>
+    <item
+        jar="C:\Android-Applications-Advanced\Uber\Parse-Starter-Project-1.13.0\ParseStarterProject\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\24.0.0-alpha1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="ed88e1f0c8fbf66e1da918545f0a6790f893bceb">
+        <dex dex="C:\Android-Applications-Advanced\Uber\Parse-Starter-Project-1.13.0\ParseStarterProject\build\intermediates\pre-dexed\debug\classes-c16eed24ad6a7b9ba53561f9ba95ef467be2ff8c.jar" />
+    </item>
+    <item
+        jar="C:\Android-Applications-Advanced\Uber\Parse-Starter-Project-1.13.0\ParseStarterProject\build\intermediates\exploded-aar\com.google.android.gms\play-services-identity\7.5.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="d405025c600055237c171a0bbabaa49d69696573">
+        <dex dex="C:\Android-Applications-Advanced\Uber\Parse-Starter-Project-1.13.0\ParseStarterProject\build\intermediates\pre-dexed\debug\classes-a2a18af02261138fbbf46b0a224f93d4e944ba22.jar" />
+    </item>
+    <item
+        jar="C:\Android-Applications-Advanced\Uber\Parse-Starter-Project-1.13.0\ParseStarterProject\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\24.0.0-alpha1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="a6af5beedc2e8c946abc3771525e2fed77439309">
+        <dex dex="C:\Android-Applications-Advanced\Uber\Parse-Starter-Project-1.13.0\ParseStarterProject\build\intermediates\pre-dexed\debug\classes-b8d1f9f019644d4b0fbba6dbb4efecdb97575767.jar" />
+    </item>
+    <item
+        jar="C:\Android-Applications-Advanced\Uber\Parse-Starter-Project-1.13.0\ParseStarterProject\build\intermediates\exploded-aar\com.google.android.gms\play-services-cast\7.5.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="8e3a972f28b8bae817e382257ba177a31bcadbbc">
+        <dex dex="C:\Android-Applications-Advanced\Uber\Parse-Starter-Project-1.13.0\ParseStarterProject\build\intermediates\pre-dexed\debug\classes-8b98b011681417eb041e1d917dfd079591f25ecc.jar" />
+    </item>
+    <item
+        jar="C:\Android-Applications-Advanced\Uber\Parse-Starter-Project-1.13.0\ParseStarterProject\build\intermediates\exploded-aar\com.google.android.gms\play-services-drive\7.5.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="f44d03c138cb6488fdbaa65e3a7e5878861a56d8">
+        <dex dex="C:\Android-Applications-Advanced\Uber\Parse-Starter-Project-1.13.0\ParseStarterProject\build\intermediates\pre-dexed\debug\classes-b91848b4dc7604770016e9dd91ddfb1f69d48b2f.jar" />
+    </item>
+    <item
+        jar="C:\Android-Applications-Advanced\Uber\Parse-Starter-Project-1.13.0\ParseStarterProject\build\intermediates\exploded-aar\com.google.android.gms\play-services-ads\7.5.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="29ebc7e04d877062317c8cc0e68b20f0c1fcda66">
+        <dex dex="C:\Android-Applications-Advanced\Uber\Parse-Starter-Project-1.13.0\ParseStarterProject\build\intermediates\pre-dexed\debug\classes-46bab2edfa1e2829799573f2a288612edb39901c.jar" />
+    </item>
+    <item
+        jar="C:\Users\Marko Arsenovic\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\24.0.0-alpha1\support-annotations-24.0.0-alpha1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="b8062546971a3d196343232a19a3c0016272ba47">
+        <dex dex="C:\Android-Applications-Advanced\Uber\Parse-Starter-Project-1.13.0\ParseStarterProject\build\intermediates\pre-dexed\debug\support-annotations-24.0.0-alpha1-39703f1a4cee61fc1017b49be92a320e8d39933f.jar" />
+    </item>
+    <item
+        jar="C:\Android-Applications-Advanced\Uber\Parse-Starter-Project-1.13.0\ParseStarterProject\build\intermediates\exploded-aar\com.android.support\mediarouter-v7\22.0.0\jars\libs\internal_impl-22.0.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="ba3df4eb0a630d7de294f0e48d3f9267d279b784">
+        <dex dex="C:\Android-Applications-Advanced\Uber\Parse-Starter-Project-1.13.0\ParseStarterProject\build\intermediates\pre-dexed\debug\internal_impl-22.0.0-37d75bf3adba219f29fc896dc9e3ffd9df66eb76.jar" />
+    </item>
+    <item
+        jar="C:\Users\Marko Arsenovic\.gradle\caches\modules-2\files-2.1\com.parse.bolts\bolts-tasks\1.4.0\d85884acf6810a3bbbecb587f239005cbc846dc4\bolts-tasks-1.4.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="d85884acf6810a3bbbecb587f239005cbc846dc4">
+        <dex dex="C:\Android-Applications-Advanced\Uber\Parse-Starter-Project-1.13.0\ParseStarterProject\build\intermediates\pre-dexed\debug\bolts-tasks-1.4.0-8c966154abe5b81756b88d85146fbb4f0b8c2d83.jar" />
+    </item>
+    <item
+        jar="C:\Android-Applications-Advanced\Uber\Parse-Starter-Project-1.13.0\ParseStarterProject\build\intermediates\exploded-aar\com.android.support\support-v4\24.0.0-alpha1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="9aaaea3a89040f8176f810c85e288fc74d5d1f12">
+        <dex dex="C:\Android-Applications-Advanced\Uber\Parse-Starter-Project-1.13.0\ParseStarterProject\build\intermediates\pre-dexed\debug\classes-1c0d95798a886e2dfc6a500e38c771fd6e9acba8.jar" />
+    </item>
+    <item
+        jar="C:\Android-Applications-Advanced\Uber\Parse-Starter-Project-1.13.0\ParseStarterProject\build\intermediates\exploded-aar\com.android.support\mediarouter-v7\22.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="a1372c17fccacca753d3951d3ad820571cbce075">
+        <dex dex="C:\Android-Applications-Advanced\Uber\Parse-Starter-Project-1.13.0\ParseStarterProject\build\intermediates\pre-dexed\debug\classes-7cf0b018294503586c013fa9923e8ea630493f78.jar" />
+    </item>
+    <item
+        jar="C:\Android-Applications-Advanced\Uber\Parse-Starter-Project-1.13.0\ParseStarterProject\build\intermediates\exploded-aar\com.google.android.gms\play-services-wearable\7.5.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="69dd177337ead693c408c8dddc9546bb6f1244fa">
+        <dex dex="C:\Android-Applications-Advanced\Uber\Parse-Starter-Project-1.13.0\ParseStarterProject\build\intermediates\pre-dexed\debug\classes-a98d50a73c9277b171b72d2268b01114627f13da.jar" />
+    </item>
+    <item
+        jar="C:\Android-Applications-Advanced\Uber\Parse-Starter-Project-1.13.0\ParseStarterProject\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\7.5.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="a78183f30e769a98ab4820794f597763088d3065">
+        <dex dex="C:\Android-Applications-Advanced\Uber\Parse-Starter-Project-1.13.0\ParseStarterProject\build\intermediates\pre-dexed\debug\classes-f299ed2c26722a476c74f4ccc70bd42d84363173.jar" />
+    </item>
+    <item
+        jar="C:\Android-Applications-Advanced\Uber\Parse-Starter-Project-1.13.0\ParseStarterProject\build\intermediates\exploded-aar\com.google.android.gms\play-services-analytics\7.5.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="e7b35244f50663b3f8d150714bca9ecd7a290da1">
+        <dex dex="C:\Android-Applications-Advanced\Uber\Parse-Starter-Project-1.13.0\ParseStarterProject\build\intermediates\pre-dexed\debug\classes-645a1c81b3d515dcc5c29d79878a5c6678082192.jar" />
+    </item>
+
+</items>
